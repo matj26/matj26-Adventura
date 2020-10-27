@@ -1,0 +1,1 @@
+Větev dev pro ukládání verzí grafického rozhraní adventury.
