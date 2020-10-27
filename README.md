@@ -1,0 +1,1 @@
+Větev master pro textový základ adventury.
